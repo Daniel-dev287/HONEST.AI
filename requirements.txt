@@ -1,0 +1,13 @@
+pandas
+nltk
+joblib
+textblob
+numpy
+scikit-learn
+imbalanced-learn
+opencv-python
+pytesseract
+Pillow
+flask
+pyspellchecker
+re
